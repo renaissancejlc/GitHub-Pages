@@ -14,7 +14,6 @@ git push <remote_URL/remote_name> <branch>
 - Find me on [Instagram](https://instagram.com/renaissancejlc).
 - [Back To Top](#User-Page)
 - [Get to know my Lab 1 assignment](README.md)
-- ![Here is a picture of dog last week](https://drive.google.com/file/d/1-hHm6HwdeEq_LEzH8FL_kXoviyLwPp5a/view?usp=sharing)
 - My favorite foods are:
 1. Pho
 2. Anything Sweet
