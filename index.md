@@ -21,8 +21,8 @@ git push <remote_URL/remote_name> <branch>
 3. Dry Hot Pots 
    ![Dry Hot Pots](https://media-cdn.tripadvisor.com/media/photo-p/0c/14/a8/48/photo0jpg.jpg)
 - Things I want to do on campus during my first and only year:
-- [] join some organizations
-- [] try all the food
-- [] attend sporting events
+- [ ] join some organizations
+- [ ] try all the food
+- [ ] attend sporting events
 
 
