@@ -1,2 +1,3 @@
 # GitHub-Pages
-lab 1, week 1, VSCode, Markdown, and Git Part 1
+My favorite programming language is Java because I have the most experience with it.
+My user page: https://renaissancejlc.github.io/GitHub-Pages/
