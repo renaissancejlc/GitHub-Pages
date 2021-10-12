@@ -45,17 +45,9 @@ Team will have the first kickoff meeting at 6:20. Here we will work on group bon
 
 |Action |Person responsible|Deadline|
 |:-----|:-----:|-----:|
-| Bonding Activity| Team Leads|Thursday 11:59pm|
-|:-----|:-----:|-----:|
-| Schedule Kickoff Meeting | Team Leads |ASAP |
-|:-----|:-----:|-----:|
-| Create a GitHub Repo (add TA as admin) | Unassigned |Thursday 11:59pm |
-|:-----|:-----:|-----:|
-| Team Branding | Unassigned |Thursday 11:59pm |
-|:-----|:-----:|-----:|
-| Create a team video | Unassigned |Thursday 11:59pm |
-|:-----|:-----:|-----:|
-| Create group contract | Unassigned |Thursday 11:59pm |
+| Bonding Activity| Team Leads|Thursday 11:59pm||:-----|:-----:|-----:|| Schedule Kickoff Meeting | Team Leads |ASAP ||:-----|:-----:|-----:|| Create a GitHub Repo (add TA as admin) | Unassigned |Thursday 11:59pm ||:-----|:-----:|-----:|
+| Team Branding | Unassigned |Thursday 11:59pm ||:-----|:-----:|-----:|
+| Create a team video | Unassigned |Thursday 11:59pm ||:-----|:-----:|-----:|| Create group contract | Unassigned |Thursday 11:59pm |
 
 **Conclusions:**
 Our team needs to commit several hours between now and Thursday to complete these assignments; assigning leaders to assignments would be helpful
